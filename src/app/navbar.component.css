@@ -1,0 +1,39 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    height: 50px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+  
+  nav button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  nav button:hover {
+    background-color: #3e8e41;
+  }
